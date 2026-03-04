@@ -88,3 +88,5 @@ if st.button("Run Churn Analysis"):
 
 # Footer
 st.caption("Developed as part of a michaeltsop.com Portfolio Project")
+
+# To run this app, access "www.churn-prediction-michaeltsop.streamlit.app" in your web browser 
