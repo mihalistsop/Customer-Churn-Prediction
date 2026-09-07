@@ -43,8 +43,3 @@ You can try the interactive predictor here:
 * `rf_churn_model.joblib`: The trained Random Forest model.
 * `model_columns.pkl`: The saved feature schema for consistent predictions.
 * `requirements.txt`: Necessary libraries for deployment.
-
-## 🔧 Installation & Usage
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/your-username/telco-churn-project.git](https://github.com/your-username/telco-churn-project.git)
